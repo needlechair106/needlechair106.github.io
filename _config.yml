@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Yijie Qian"
-description              : "Doctoral student at the School of Integrated Circuits, Southeast University, working in the National Engineering Research Center for ASIC.Focusing on power delivery to high-performance processors for data and HPC centers. "
+description              : "Doctoral student at the School of Integrated Circuits, Southeast University. 
+Focusing on power delivery to high-performance processors for data and HPC centers. "
 repository               : "needlechair106/needlechair106.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "linkedin.com/in/yijie-qian-aa731b281"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
