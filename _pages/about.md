@@ -17,7 +17,7 @@ redirect_from:
 
 
 
-📝 Publications 
+# 📝 Publications 
 
 
 <div class='paper-box-text' markdown="1">
@@ -28,9 +28,10 @@ This GitHub Pages site contains the accepted manuscript versions of selected pub
 
 **Yijie Qian**, Shen Xu, Xinru Wang, Lingyun Li, Weifeng Sun
 
+**IEEE Transactions on Industrial Electronics**
+
 [**Author Accepted Manuscript**](assets/papers/TIE3497305AAM.pdf) <strong><span class='show_paper_citations' data='S-Ghu4sAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-</div>
 </div>
 
 
