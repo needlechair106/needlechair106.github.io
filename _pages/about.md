@@ -31,6 +31,6 @@ This GitHub Pages site contains the accepted manuscript versions of selected pub
 **IEEE Transactions on Industrial Electronics, vol. 72, no. 6**
 
 [[**Author Accepted Manuscript**]](assets/papers/TIE3497305AAM.pdf) <strong><span class='show_paper_citations' data='S-Ghu4sAAAAJ:9yKSN-GCB0IC'></span></strong>
-
+© [2025] IEEE. Personal use of this material is permitted. This is the author's version of the accepted manuscript. The final version is published in IEEE Transactions on Industrial Electronics and is available at: [10.1109/TIE.2024.3497305]
 
 
